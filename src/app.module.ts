@@ -18,6 +18,7 @@ import { UsersModule } from './users/users.module';
       synchronize: false,
     }),
     UsersModule,
+
   ],
 })
 export class AppModule {}
